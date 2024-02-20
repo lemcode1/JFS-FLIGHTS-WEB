@@ -1,2 +1,2 @@
-# -JFS-FLIGHTS-WEB
+# JFS-FLIGHTS-WEB
 JFS flights booking system
